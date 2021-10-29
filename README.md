@@ -1,2 +1,3 @@
 # CV-homework
-My Cv HOMEWORK
+## My Cv HOMEWORK
+This is a plan for CV training
